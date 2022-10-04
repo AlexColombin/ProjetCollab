@@ -34,7 +34,7 @@ public class Ville {
 		this.nomVille=nomVille;
 	}
 	
-	String decrisToi() {
+	String toString() {
 		return "\t"+this.nomVille+" est une ville de "+this.nomPays+ ", elle comporte : "+this.nbreHabitants+" habitant(s)";
 	}
 
