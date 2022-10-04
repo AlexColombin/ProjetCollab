@@ -1,0 +1,2 @@
+# ProjetCollab
+ajout '.gitignore'
