@@ -8,7 +8,7 @@ public class Main {
 		Ville v1=new Ville();
 		Ville v2=new Ville("Rafraf","Tunisie",70000);
 		Ville v3=new ville();
-		Ville v4=new ville();
+		Ville v4=new ville("ras jebel","tunisie",700);
 		System.out.println(v1);
 		System.out.println(v2);
 	
