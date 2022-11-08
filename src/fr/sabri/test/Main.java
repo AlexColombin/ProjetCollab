@@ -9,7 +9,7 @@ public class Main {
 		Ville v4=new ville("bizerte","tunisie",700);
 		Ville v5=new ville("Nancy","france",73000);
 		Ville v6=new ville("marseille","france",73000);
-		
+		Ville v7=new Ville();
 		Ville v8=new Ville();
 		Ville v9=new Ville();
 
