@@ -9,6 +9,7 @@ public class Main {
 		Ville v2=new Ville("Ras Jebel","Tunisie",70000);
 		System.out.println(v1);
 		System.out.println(v2);
+		System.out.println(v2);
 	
 	}	
 }
